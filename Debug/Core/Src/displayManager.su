@@ -1,0 +1,4 @@
+displayManager.c:17:6:displayMeas	32	static
+displayManager.c:28:6:removePause	16	static
+displayManager.c:33:6:displayPause	24	static
+displayManager.c:40:6:displayWelcome	24	static
